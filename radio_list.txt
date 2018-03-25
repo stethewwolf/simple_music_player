@@ -1,0 +1,12 @@
+[ Doodle radio ]
+http://83.170.104.71:7115/live
+[ after hours ]
+http://fr5.ah.fm:443
+[ virgin radio hard rock ]
+http://shoutcast.unitedradio.it:1309/listen.pls
+[ virgin radio alternative ]
+http://shoutcast.unitedradio.it:1513/listen.pls
+[ virgin radio ]
+http://shoutcast.unitedradio.it:1301/listen.pls
+[ m2o ]
+http://mp3.kataweb.it:8000/M2O.m3u

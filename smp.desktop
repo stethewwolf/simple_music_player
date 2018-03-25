@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=0.1
+Name=smp
+Comment=Simple music player
+Exec=/usr/bin/smp.sh
+Icon=/opt/smp/smp_ico.png
+Terminal=true
+Type=Application
+Categories=AudioVideo;Player;
+Name[it]=smp
